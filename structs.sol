@@ -5,7 +5,6 @@ struct Items_Schema {
     string _description;
 }
 
-
 estruturas
 Structs são tipos personalizados que um usuário pode definir para representar 
-bjetos do mundo real. Normalmente, structs são usados como um esquema ou para representar registros.
+objetos do mundo real. Normalmente, structs são usados como um esquema ou para representar registros.
